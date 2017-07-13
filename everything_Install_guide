@@ -1,0 +1,22 @@
+BASIC PYTHON INSTALATION
+
+MICROSOFT WINDOWS 7/8/8.1/10
+
+Goto https://www.python.org/downloads/windows/
+Download latest python2
+
+LINUX
+already installed except python3
+
+SCAPY
+UNIX/LINUX
+
+Install Python 3.x.
+Install Scapy using pip or by cloning/installing from git.
+(For non-Linux platforms): Install libpcap and libdnet and their Python wrappers.
+(Optional): Install additional software for special features.
+Run Scapy with root priviledges.
+
+
+
+
